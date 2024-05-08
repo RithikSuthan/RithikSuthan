@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rithiksuthan123@gmail.com**
 
-- My Portfolio [https://rithiksuthan.onrender.com](https://rithiksuthan.onrender.com)
+- My Portfolio [rithiksuthan.onrender.com](https://rithiksuthan.onrender.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
